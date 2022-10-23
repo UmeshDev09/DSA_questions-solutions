@@ -1401,20 +1401,27 @@
 }
 
 {
-    "id": "1011",
+    "id": "1019",
     "topic": "DSA-Array",
     "question": "Find Minimum in Rotated Sorted Array",
     "answerLink": "https://www.youtube.com/watch?v=IzHR_U8Ly6c"
 }
 
 
-},
-   {
-        "id": "2345",
+{
+        "id": "1020",
         "topic": "array",
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
-   },
+   }
+
+
+        "id": "1021",
+        "topic": "array",
+        "question": "Write a program for binary search",
+        "answerLink": "https://www.geeksforgeeks.org/binary-search/"
+   }
+
 ]
 
 
